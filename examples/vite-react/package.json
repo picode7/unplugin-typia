@@ -23,7 +23,7 @@
     "ts-patch": "^3.2.1",
     "typescript": "~5.5.3",
     "typia": "^6.4.1",
-    "vite": "^5.2.0",
+    "vite": "^5.3.3",
     "@ryoppippi/unplugin-typia": "workspace:*"
   }
 }
